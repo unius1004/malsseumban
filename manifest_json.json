@@ -1,0 +1,16 @@
+{
+  "name": "아버님 말씀판",
+  "short_name": "말씀판",
+  "description": "뇌경색 환자를 위한 의사소통 보조 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F0F4FF",
+  "theme_color": "#1D4ED8",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/googlei18n/noto-emoji/master/png/128/emoji_u1f4ac.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ]
+}
